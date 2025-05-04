@@ -1,4 +1,3 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19410674)
-# cpp_finalProjects
-
-Upload your code and report here to this repo for your final project, change this README file to explain your final project github repo files.
+# Tic Tac Toe Final project
+Since by final is going to be tic tac toe I decided to continue working on the tic tac toe assignment. This will help me speed up the process in finishing my final but also add new features that will enhance the gameplay. This tic tac toe game, players will challenge an A.I to a game. Players will be able to select a difficulty that will determine how challenging the A.I will be in the game. So far what I've added to the game is the difficulty selector, players can choose from easy, normal, or hard. I also added the ability to play the game again and I also planned to also make it if the player would like to change the difficulty. 
