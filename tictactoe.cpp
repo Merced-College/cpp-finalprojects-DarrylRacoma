@@ -1,3 +1,10 @@
+/*
+Name: Darryl Racoma
+Date: 5-13-2025
+Final Project: Tic Tac Toe
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <limits>
